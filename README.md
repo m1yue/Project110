@@ -1,1 +1,1 @@
-ld Status](https://travis-ci.org/m1yue/test.svg?branch=master)](https://travis-ci.org/m1yue/Project110)
+[![Build Status](https://travis-ci.org/m1yue/Project110.svg?branch=master)](https://travis-ci.org/m1yue/Project110)
